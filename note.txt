@@ -1,0 +1,10 @@
+Clone về chạy lệnh 
+composer install để cài thư viện
+
+git branch -a lấy nhánh
+git checkout chuyển sang nhánh mày VD: git checkout ngoctan05
+
+git add . để thêm
+git status để xem
+git push
+
